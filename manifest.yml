@@ -2,4 +2,4 @@
 applications:
  - name: 2dludogame
    random-route: true
-   memory: 128M
+   memory: 32M
