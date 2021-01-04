@@ -1,5 +1,6 @@
 from tkinter import *  # Tkinter is used as the GUI.
 from tkinter import messagebox
+import numpy
 import sys
 import os
 import random
