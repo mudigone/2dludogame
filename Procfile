@@ -1,1 +1,1 @@
-web: python Ludo-game.py
+Worker: python Ludo-game.py
